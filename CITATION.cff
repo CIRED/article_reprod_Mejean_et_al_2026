@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: Data and replication code of the figure of the published article https://doi.org/10.1142/S2010007826400105
+abstract: Data and replication code of the figure of the published article https://doi.org/10.1142/S2010007826400105
+type: data and code
+title: Data and Code of Mejean et al., (2026), "The Equity and Efficiency of Carbon Taxation: A Multi-Model, Multi-Country Analysis"
+version: "1.0"
+date-released: 2026-06-25
+authors:
+
+  - family-names: "Méjean"
+    given-names: "Aurélie"
+    orcid: https://orcid.org/0000-0003-2859-3613
+    affiliation: "CNRS, CIRED (Centre National de la Recherche Scientifique; Centre International de Recherche sur l'Environnement et le Développement)"
+
+  - family-names: "Leblanc"
+    given-names: "Florian"
+    orcid: https://orcid.org/0000-0001-9154-5847
+    affiliation: "CNRS, CIRED"
+
+  - family-names: "Lefèvre"
+    given-names: "Julien"
+    orcid: https://orcid.org/0000-0001-9702-7266
+    affiliation: "AgroParisTech, CIRED"
+
+  - family-names: "Fragkiadakis"
+    given-names: "Dimitris"
+    orcid: https://orcid.org/0000-0002-1129-0360
+    affiliation: "E3Modelling S.A."
+
+  - family-names: "Fragkos"
+    given-names: "Panagiotis"
+    orcid: https://orcid.org/0000-0003-3596-0661
+    affiliation: "E3Modelling S.A."
+
+  - family-names: "Garaffa"
+    given-names: "Rafael"
+    orcid: https://orcid.org/0000-0001-6983-8600
+    affiliation: "JRC, European Commission"
+
+  - family-names: "Lynch"
+    given-names: "Cormac"
+    orcid: https://orcid.org/0000-0002-1011-2722
+    affiliation: "Global Systems Institute, University of Exeter"
+
+  - family-names: "Vandyck"
+    given-names: "Toon"
+    orcid: https://orcid.org/0000-0001-5927-0310
+    affiliation: "Department of Economics, KU Leuven"
